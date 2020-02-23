@@ -3,9 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <PackageLicenseExpression>AS IS</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/AleXr64/SimplePool</PackageProjectUrl>
     <RepositoryUrl>https://github.com/AleXr64/SimplePool</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Pool</PackageTags>
+    <Copyright>@AleXr64</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
